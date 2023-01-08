@@ -20,8 +20,8 @@ Install with pip:
 $ pip install -r requirements.txt
 ```
 
-### `.env` configuration
-Create a .env file with these configurations:
+### .env configuration
+Create a `.env` file with these configurations:
 ```
 HOST=<pg_hostname>
 USER=<pg_username>
