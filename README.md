@@ -20,7 +20,7 @@ Install with pip:
 $ pip install -r requirements.txt
 ```
 
-### .env configuration
+### `.env` configuration
 Create a .env file with these configurations:
 ```
 HOST=<pg_hostname>
@@ -36,7 +36,3 @@ python app.py
 ```
 or
 run app.py
-
-## Contact
-- Mail: alexanderking.aa@gmail.com
-- GitHub: [Alexander](https://github.com/Anyaegbunam-Alexander)
