@@ -1,7 +1,7 @@
 # Alberta Hospital Management system (AH_MS)
 
 ## Aim
-Building a small-scale management system
+Building a small-scale command-line management system
 
 ## Concept
 This management system supports basic data CRUD operations as well as report generation for easy sharing and analysis
